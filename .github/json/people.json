@@ -4,43 +4,43 @@
         "name":"Jose Aluno Junior",
         "ranking":"Estudante",
         "image": "https://cdn.discordapp.com/attachments/951877140859723889/982663730468904990/unknown.png",
-        "attributes": {
+        "attributes": [{
             "curso": "LEIC",
             "ano" : "2"
-        }
+        }]
     },
     {
         "upNumber":202537653,
         "name":"Miguel Gomes",
         "ranking":"Professor",
         "image": "https://cdn.discordapp.com/attachments/951877140859723889/982663730468904990/unknown.png",
-        "attributes": {
+        "attributes": [{
             "UCs": "MEST",
             "idade" : "78",
             "gabinete" : "i345"
-        }
+        }]
     },
     {
         "upNumber":202007652,
         "name":"Pedro Souto",
         "ranking":"Professor",
         "image": "https://cdn.discordapp.com/attachments/951877140859723889/982663730468904990/unknown.png",
-        "attributes": {
+        "attributes": [{
             "UCs": "LCOM",
             "idade" : "182",
             "gabinete" : "i8042",
             "passatempo" : "Reproving students",
             "email" : "pfs@fe.up.pt"
-        }
+        }]
     },
     {
         "upNumber":190200001,
         "name":"Obama",
         "ranking":"Ex presidente",
         "image": "https://cdn.discordapp.com/attachments/951877140859723889/982663148916064336/obama.png",
-        "attributes": {
+        "attributes": [{
             "apelido": "???",
             "mandato" : "2008-2016"
-        }
+        }]
     }
 ]
