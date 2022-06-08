@@ -1,6 +1,6 @@
 [
     {
-        "upNumber":206969699,
+        "upNumber":206969697,
         "name":"Jose Aluno Junior",
         "ranking":"Estudante",
         "image": "https://cdn.discordapp.com/attachments/951877140859723889/982663730468904990/unknown.png",
@@ -43,7 +43,7 @@
         }
     },
     {
-        "upNumber":190200001,
+        "upNumber":190200101,
         "name":"Miguel Estudante",
         "ranking":"Estudante",
         "image": "https://cdn.discordapp.com/attachments/951877140859723889/982663730468904990/unknown.png",
@@ -53,7 +53,7 @@
         }
     },
     {
-        "upNumber":190200001,
+        "upNumber":190203001,
         "name":"Miguel Novato",
         "ranking":"Estudante",
         "image": "https://phddirectory.ece.wisc.edu/wp-content/uploads/sites/1590/2021/01/JINGJIE-LI-1536x1289.jpg",
@@ -63,7 +63,7 @@
         }
     },
     {
-        "upNumber":206969699,
+        "upNumber":206969698,
         "name":"Jose Jose",
         "ranking":"Estudante",
         "image": "https://cdn.discordapp.com/attachments/951877140859723889/982663730468904990/unknown.png",
@@ -72,6 +72,7 @@
             "ano" : "3"
         }
     },
+    {
         "upNumber":206969699,
         "name":"Jose Campos",
         "ranking":"Professor",
@@ -98,7 +99,7 @@
         }
    },
    {
-       "upNumber":202007658,
+       "upNumber":201800177,
         "name":"Marcos William Ferreira Pinto",
         "ranking":"Estudante",
         "image": "https://avatars.githubusercontent.com/u/72470150?v=4",
