@@ -16,31 +16,149 @@
         "image": "https://cdn.discordapp.com/attachments/951877140859723889/982663730468904990/unknown.png",
         "attributes": {
             "UCs": "MEST",
-            "idade" : "78",
-            "gabinete" : "i345"
+            "idade" : "63",
+            "gabinete" : "G45"
         }
     },
     {
         "upNumber":202007652,
-        "name":"Pedro Souto",
+        "name":"Pedro Salto",
         "ranking":"Professor",
         "image": "https://cdn.discordapp.com/attachments/951877140859723889/982663730468904990/unknown.png",
         "attributes": {
-            "UCs": "LCOM",
-            "idade" : "182",
-            "gabinete" : "i8042",
-            "passatempo" : "Reproving students",
-            "email" : "pfs@fe.up.pt"
+            "UCs": "MOCL",
+            "idade" : "48",
+            "gabinete" : "F31",
+            "email" : "pedroSalto@fe.up.pt"
         }
     },
     {
         "upNumber":190200001,
-        "name":"Obama",
-        "ranking":"Ex presidente",
-        "image": "https://cdn.discordapp.com/attachments/951877140859723889/982663148916064336/obama.png",
+        "name":"Miguel Obama",
+        "ranking":"Estudante",
+        "image": "https://www2.physics.ox.ac.uk/sites/default/files/images/Stan1.jpg",
         "attributes": {
-            "apelido": "???",
-            "mandato" : "2008-2016"
+            "curso": "MIEIC",
+            "ano" : "5"
+        }
+    },
+    {
+        "upNumber":190200001,
+        "name":"Miguel Estudante",
+        "ranking":"Estudante",
+        "image": "https://cdn.discordapp.com/attachments/951877140859723889/982663730468904990/unknown.png",
+        "attributes": {
+            "curso": "LEC",
+            "ano" : "1"
+        }
+    },
+    {
+        "upNumber":190200001,
+        "name":"Miguel Novato",
+        "ranking":"Estudante",
+        "image": "https://phddirectory.ece.wisc.edu/wp-content/uploads/sites/1590/2021/01/JINGJIE-LI-1536x1289.jpg",
+        "attributes": {
+            "curso": "LEIC",
+            "ano" : "1"
+        }
+    },
+    {
+        "upNumber":206969699,
+        "name":"Jose Jose",
+        "ranking":"Estudante",
+        "image": "https://cdn.discordapp.com/attachments/951877140859723889/982663730468904990/unknown.png",
+        "attributes": {
+            "curso": "LEIC",
+            "ano" : "3"
+        }
+    },
+        "upNumber":206969699,
+        "name":"Jose Campos",
+        "ranking":"Professor",
+        "image": "https://cdn.shopify.com/s/files/1/0162/2116/files/Professional-Haircut20.jpg?v=1523605474",
+        "attributes": {
+            "UCs": "ESOF",
+            "email": "jose.campos@fe.up.pt",
+            "carreira": "Pessoal Docente de Universidades",
+            "Departamento": "Departamento de Engenharia Informática",
+            "Sigla": "JC"
+        }
+    },
+    {
+        "upNumber":202007658,
+        "name":"Fábio Araújo de Sá",
+        "ranking":"Estudante",
+        "image": "https://sigarra.up.pt/feup/pt/fotografias_service.foto?pct_cod=202007658",
+        "attributes": {
+            "curso": "LEIC",
+            "ano" : "2",
+            "idade": "19",
+            "email": "up202007658@fe.up.pt",
+            "Estado civil": "solteiro",
+        }
+   },
+   {
+       "upNumber":202007658,
+        "name":"Marcos William Ferreira Pinto",
+        "ranking":"Estudante",
+        "image": "https://avatars.githubusercontent.com/u/72470150?v=4",
+        "attributes": {
+            "curso": "LEIC",
+            "ano" : "3",
+            "email": "up201800177@fe.up.pt",
+            "Estado civil": "solteiro",
+        }
+    },
+    {
+        "upNumber": 202007210,
+        "name": "Inês Sá Pereira Estêvão Gaspar",
+        "ranking": "Estudante",
+        "image": "https://cdn.discordapp.com/attachments/951877140859723889/982663730468904990/unknown.png",
+        "attributes": {
+            "curso": "LEIC",
+            "ano": "2",
+            "idade": "19",
+            "email": "up202007210@fe.up.pt",
+            "Estado civil": "solteiro",
+        }
+    },
+    {
+        "upNumber": 202004816,
+        "name": "Lourenço Alexandre Correia Gonçalves",
+        "ranking": "Estudante",
+        "image":"https://sigarra.up.pt/feup/pt/fotografias_service.foto?pct_cod=202004816" ,
+        "attributes": {
+            "curso": "LEIC",
+            "ano": "2",
+            "idade": "19",
+            "email": "up202004816@fe.up.pt",
+            "Estado civil": "solteiro",
+        }
+    },
+    {
+        "upNumber":201902223,
+        "name":"Gabriel Ferreira Coelho",
+        "ranking":"Estudante",
+        "image":"https://cdn.discordapp.com/attachments/951877140859723889/982663730468904990/unknown.png",
+        "attributes": {
+        "curso": "LEIC",
+        "ano" : "3",
+        "idade": "23",
+        "email": "up201902223@up.pt",
+        "Estado civil": "solteiro",
+        }
+    },
+    {
+        "upNumber": 201907075,
+        "name": "David Magalhães",
+        "ranking": "Estudante",
+        "image":"https://avatars.githubusercontent.com/u/101418405?v=4" ,
+        "attributes": {
+            "curso": "LEIC",
+            "ano": "3",
+            "idade": "21",
+            "email": "up201907075@up.pt",
+            "Estado civil": "solteiro",
         }
     }
 ]
