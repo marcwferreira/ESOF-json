@@ -95,7 +95,7 @@
             "ano" : "2",
             "idade": "19",
             "email": "up202007658@fe.up.pt",
-            "Estado civil": "solteiro",
+            "Estado civil": "solteiro"
         }
    },
    {
@@ -107,7 +107,7 @@
             "curso": "LEIC",
             "ano" : "3",
             "email": "up201800177@fe.up.pt",
-            "Estado civil": "solteiro",
+            "Estado civil": "solteiro"
         }
     },
     {
@@ -120,7 +120,7 @@
             "ano": "2",
             "idade": "19",
             "email": "up202007210@fe.up.pt",
-            "Estado civil": "solteiro",
+            "Estado civil": "solteiro"
         }
     },
     {
@@ -133,7 +133,7 @@
             "ano": "2",
             "idade": "19",
             "email": "up202004816@fe.up.pt",
-            "Estado civil": "solteiro",
+            "Estado civil": "solteiro"
         }
     },
     {
@@ -146,7 +146,7 @@
         "ano" : "3",
         "idade": "23",
         "email": "up201902223@up.pt",
-        "Estado civil": "solteiro",
+        "Estado civil": "solteiro"
         }
     },
     {
@@ -159,7 +159,7 @@
             "ano": "3",
             "idade": "21",
             "email": "up201907075@up.pt",
-            "Estado civil": "solteiro",
+            "Estado civil": "solteiro"
         }
     }
 ]
